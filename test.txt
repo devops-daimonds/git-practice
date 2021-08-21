@@ -1,4 +1,2 @@
 Hello everyone
 This is git class
-
-sample
